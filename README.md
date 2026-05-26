@@ -1,5 +1,11 @@
-# Thanishka K
+# Introducing Myself 
 
+<html> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Thanishka;+Building+the+Future+with+AI+%26+ML;+Full-Stack+Developer+%7C+Cloud+Enthusiast" alt="Typing Effect" />
+</div> 
+</html>
+ 
 **B.Tech Student in Artificial Intelligence & Machine Learning**  
 Bengaluru, India  
 
