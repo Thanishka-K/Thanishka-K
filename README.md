@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Thanishka;+Building+the+Future+with+AI+%26+ML;+Full-Stack+Developer+%7C+Cloud+Enthusiast" alt="Typing Effect" />
 </div> 
 </html>
- 
+
 **B.Tech Student in Artificial Intelligence & Machine Learning**  
 Bengaluru, India  
 
@@ -36,7 +36,7 @@ A focused and detail-oriented engineering student specializing in AI/ML, cloud i
 ---
 
 ### 📊 GitHub Activity
-
+<html>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thanishka-K&show_icons=true&theme=neutral&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanishka-K&layout=compact&theme=neutral&hide_border=true" alt="Top Languages" height="165" />
@@ -46,11 +46,12 @@ A focused and detail-oriented engineering student specializing in AI/ML, cloud i
 
 ### 🤝 Contact & Professional Networks
 
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn:** https://linkedin.com/in/Thanishka-K
+* **Email:** thanishka.k06@gmail.com)
 
 <br />
 
 <div align="center">
   <sub>© 2026 Thanishka K • Built simply with Markdown</sub>
-</div
+</div>
+</html>
