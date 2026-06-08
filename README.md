@@ -17,15 +17,15 @@ A focused and detail-oriented engineering student specializing in AI/ML, cloud i
 
 * **Languages:** Python, C++, JavaScript
 * **Backend & Web Frameworks:** Node.js, Express.js
-* **Cloud & Automation:** Google Cloud Platform (GCP), Bash Scripting, Git/GitHub
+* **Cloud & Automation:** Google Cloud Platform (GCP), GitHub
 
 ---
 
 ### 💻 Key Projects
 
-#### **Dhwani**
+#### **Griha-Mitra**
 *A real-time translation and visual assistant application designed to bridge communication gaps.*
-* Developed a responsive full-stack architecture using Node.js and Express.js.
+* Developed a responsive full-stack architecture using Node.js.
 * Integrated multimodal AI and language APIs to handle real-time audio and visual processing.
 
 #### **NutriSense Pro**
@@ -35,21 +35,9 @@ A focused and detail-oriented engineering student specializing in AI/ML, cloud i
 
 ---
 
-### 📊 GitHub Activity
-<html>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanishka-K&show_icons=true&theme=neutral&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanishka-K&layout=compact&theme=neutral&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
----
-
 ### 🤝 Contact & Professional Networks
-
-* **LinkedIn:** https://linkedin.com/in/Thanishka-K
 * **Email:** thanishka.k06@gmail.com)
 
-<br />
 
 <div align="center">
   <sub>© 2026 Thanishka K • Built simply with Markdown</sub>
